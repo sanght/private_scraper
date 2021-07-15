@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  asin: MyString
+  title: MyText
+  description: MyText
+  rating: 1
+  star_rating: 1.5
+  created_at: 2021-07-03 17:11:49
+
+two:
+  asin: MyString
+  title: MyText
+  description: MyText
+  rating: 1
+  star_rating: 1.5
+  created_at: 2021-07-03 17:11:49

@@ -1,0 +1,2 @@
+class DefaultScraperController < ApplicationController
+end

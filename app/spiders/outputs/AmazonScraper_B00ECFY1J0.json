@@ -1,0 +1,84 @@
+[
+  {
+    "product": {
+      "title": "\n\n\n\n\n\n\n\nBullhide Men's Blaze Raffia Straw Western Cowboy Hat, 3 1/2\" Shapeable Brim\n\n\n\n\n\n\n",
+      "description": "The BULLHIDE Blaze Straw Cowboy Hat is a stylish raffia straw cowboy hat perfect for the beach, hiking, camping, working outdoors, horse riding or any other activity. The Blaze Hat features a vented crown and 3 1/2\"\" shapeable brim to customize the hat to your liking. It is also decorated with a double layer cotton band with a metal concho and outfitted with a chin strap. FEATURES of Bullhide Blaze Cowboy Hat: - Run A Muck Straw Collection; - 2-layer Cotton Hatband with Metal Concho; - Chin Strap; - Vented Crown; - 3 1/2\"\" Shapeable Brim; - Material: Raffia; - Color: Natural; - Sizes: Small/Medium, Large/X-Large; Bullhide Hats have gained special recognition in the western market because of their superior finish, innovative style and exclusive trimmings. These qualities make Bullhide Hats unique. Quality and excellence are the backbone of Bullhide Hats. This message has never been lost throughout the years. It is one that lingers and remains today along with offering products with a distinctive design, fit, finish and value.",
+      "rating": "67",
+      "star_rating": "4.6",
+      "asin": "B00ECFY1J0"
+    },
+    "product_data": [
+      {
+        "seller_id": "A30BO6HMPM0Q8H",
+        "ships_from": "Hat Country LLC",
+        "price": "29.98",
+        "quantity": "8"
+      },
+      {
+        "seller_id": "AJG14BUL885W9",
+        "ships_from": "Give5ToCancer",
+        "price": "39.95",
+        "quantity": "2"
+      },
+      {
+        "seller_id": "A28VK6U6R1YI1Q",
+        "ships_from": "Bright Colors LTD",
+        "price": "39.99",
+        "quantity": "49"
+      },
+      {
+        "seller_id": "A3QCVY8U3RD2HX",
+        "ships_from": "Ram Hats and Accessories",
+        "price": "35.95",
+        "quantity": "1"
+      }
+    ],
+    "seller": [
+      {
+        "merchant_id": "A30BO6HMPM0Q8H",
+        "address": "4 Redwood Dr, Marlboro, NJ, 07746, US",
+        "city": "Marlboro",
+        "state": "New Jersey",
+        "country": "United States of America",
+        "name": "Hat Country LLC",
+        "star_rating": "4.5",
+        "total_rating": "2357",
+        "is_exist": false
+      },
+      {
+        "merchant_id": "AJG14BUL885W9",
+        "address": "1016 E. Central Ave., Bismarck, ND, 58501, US",
+        "city": "Bismarck",
+        "state": "North Dakota",
+        "country": "United States of America",
+        "name": "Give5ToCancer",
+        "star_rating": "5",
+        "total_rating": "1874",
+        "is_exist": false
+      },
+      {
+        "merchant_id": "A28VK6U6R1YI1Q",
+        "address": "1815 Coney Island Ave, Brooklyn, NY, 11230, US",
+        "city": "New York",
+        "state": "New York",
+        "country": "United States of America",
+        "name": "Bright Colors LTD",
+        "star_rating": "5",
+        "total_rating": "2952",
+        "is_exist": false
+      },
+      {
+        "merchant_id": "A3QCVY8U3RD2HX",
+        "address": "3609 Arginis Street #203, Las Vegas, NV, 89108, US",
+        "city": "Las Vegas",
+        "state": "Nevada",
+        "country": "United States of America",
+        "name": "Ram Hats and Accessories",
+        "star_rating": "4.5",
+        "total_rating": "83",
+        "is_exist": false
+      }
+    ],
+    "position": 1
+  }
+]
